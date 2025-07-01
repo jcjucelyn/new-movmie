@@ -1,6 +1,7 @@
 # DS4420 Final Project - New MovMie
 ## Leveraging Collaborative Filtering and a Multilayer Perceptron Network for Movie Recommendations
-Luke Abbatessa & Jocelyn Ju
+
+Jocelyn Ju & Luke Abbatessa
 
 This README is specifically for running the StreamLit app, `NewMovMie_App.py`.
 
